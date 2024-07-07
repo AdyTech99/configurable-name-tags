@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "io.github.adytech99.configurablenametags.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "refmap": "ConfigurableNameTags-refmap.json",
+  "client": [
+    "EntityRendererMixin",
+    "LivingEntityRendererMixin"
+  ],
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

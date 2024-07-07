@@ -1,0 +1,32 @@
+{
+  "yacl3.config.configurable_name_tags:config.renderTags": "Render name-tags",
+  "yacl3.config.configurable_name_tags:config.renderTags.desc": "Enables rendering name tags \n\nPro tip: you can use the default 'n' keybind to toggle this.",
+
+  "yacl3.config.configurable_name_tags:config.whenToRenderTagsForPlayers": "When to display name-tags (players)",
+  "yacl3.config.configurable_name_tags:config.whenToRenderTagsForPlayers.desc": "Modify whether the name-tags display always, or only when looking at the player",
+
+  "yacl3.config.configurable_name_tags:config.whenToRenderTagsForEntities": "When to display name-tags (entities)",
+  "yacl3.config.configurable_name_tags:config.whenToRenderTagsForEntities.desc": "Modify whether the name-tags display always, or only when looking at the entity",
+
+  "yacl3.config.configurable_name_tags:config.whenToRenderTagsForSelf": "Display name-tag above yourself.",
+  "yacl3.config.configurable_name_tags:config.whenToRenderTagsForSelf.desc": "Modify whether the name-tags display above yourself or not.",
+
+  "yacl3.config.configurable_name_tags:config.whenToRenderTagsForPlayers.fmt.true": "Always",
+  "yacl3.config.configurable_name_tags:config.whenToRenderTagsForPlayers.fmt.false": "Only when targeted",
+
+  "yacl3.config.configurable_name_tags:config.whenToRenderTagsForEntities.fmt.true": "Always",
+  "yacl3.config.configurable_name_tags:config.whenToRenderTagsForEntities.fmt.false": "Only when targeted",
+
+  "yacl3.config.configurable_name_tags:config.renderTagsWithoutLooking": "Always render name-tags",
+
+  "yacl3.config.configurable_name_tags:config.tagDistance": "Name-tag distance",
+  "yacl3.config.configurable_name_tags:config.tagDistance.desc": "The distance for which the name tag will be visible. -1 for default",
+
+
+  "yacl3.config.configurable_name_tags:config.category.enable_rendering": "Name-tag visibility",
+
+  "yacl3.config.configurable_name_tags:config.category.enable_rendering.group.common": "Common settings",
+  "yacl3.config.configurable_name_tags:config.category.enable_rendering.group.players": "Player specific settings",
+  "yacl3.config.configurable_name_tags:config.category.enable_rendering.group.entities": "Mob specific settings",
+  "yacl3.config.configurable_name_tags:config.category.enable_rendering.group.self": "Settings for yourself"
+}
